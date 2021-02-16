@@ -6,4 +6,3 @@ Olá! Seja bem vindo ao livro de receitas :wave:
 
 - Pavê de Creme
 
-- Cheesecake
